@@ -6,11 +6,124 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <title><%= htmlWebpackPlugin.options.title %></title>
+
+    <!-- 新 Bootstrap4 核心 CSS 文件 -->
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js"></script>
+    <!-- bootstrap.bundle.min.js 用于弹窗、提示、下拉菜单，包含了 popper.min.js -->
+    <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
+    <!-- 最新的 Bootstrap4 核心 JavaScript 文件 -->
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <!--  FavIcon  -->
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan+2:400,500,700" rel="stylesheet">
+    <!--  Plugins Css  -->
+    <link rel="stylesheet" href="css/plugins.css">
+    <!--  Plugins Css  -->
+    <link rel="stylesheet" href="css/animated.css">
+    <!--  Custom Style CSS  -->
+    <link rel="stylesheet" href="css/style.css">
+    <!--  Plugins JS  -->
+    <script src="js/plugins.js"></script>
+    <!--  Plugins JS  -->
+    <script src="js/wow.min.js"></script>
+    <!--  Custom JS  -->
+    <script src="js/aras.js"></script>
+
   </head>
-  <body>
+  <body data-spy="scroll" data-target="#scrollspy" data-offset="61">
     <noscript>
       <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
+
+    <!-- ==================== Start Loading ==================== -->
+    <div id="overlayer">
+      <div id="loading">
+        <div id="loading_1" class="loading">N</div>
+        <div id="loading_2" class="loading">a</div>
+        <div id="loading_3" class="loading">t</div>
+        <div id="loading_4" class="loading">a</div>
+        <div id="loading_5" class="loading">l</div>
+        <div id="loading_6" class="loading">y</div>
+        <div id="loading_7" class="loading">G</div>
+        <div id="loading_8" class="loading">i</div>
+        <div id="loading_9" class="loading">l</div>
+        <div id="loading_10" class="loading">l</div>
+        <div id="loading_11" class="loading">e</div>
+        <div id="loading_12" class="loading">n</div>
+        <div id="loading_13" class="loading">.</div>
+        <div id="loading_14" class="loading">.</div>
+        <div id="loading_15" class="loading">.</div>
+      </div>
+    </div>
+    <!-- ==================== End Loading ==================== -->
+
+    <!-- ==================== Start Navgition ==================== -->
+    <header class="fixed-top">
+      <div class="logo-area">
+        <a href="/login" class="logo">
+          <span class="size-sm mb-0 pl-4 mb-1">ARAS</span>
+        </a>
+      </div>
+      <div class="header-info-area">
+        <a class="overlay-menu-toggler lni-menu size-md" href="javascript:void(0);"></a>
+        <div class="overlay-menu">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-9 col-md-4 overlay-nav">
+                <ul class="list-group text-left" id="myMenu">
+                  <li class="list-group-item">
+                    <a href="#hero"><span class="nm">01.</span>Home</a>
+                  </li>
+                  <li class="list-group-item">
+                    <a href="#about"><span class="nm">02.</span>About</a>
+                  </li>
+                  <li class="list-group-item">
+                    <a href="#services"><span class="nm">03.</span>Services</a>
+                  </li>
+                  <li class="list-group-item">
+                    <a href="#portfolio"><span class="nm">04.</span>Portfolio</a>
+                  </li>
+                  <li class="list-group-item">
+                    <a href="#testimonial"><span class="nm">05.</span>Client</a>
+                  </li>
+                  <li class="list-group-item">
+                    <a href="#blog"><span class="nm">06.</span>Blog</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 col-md-4">
+                <div class="contact-info">
+                  <div class="item">
+                    <h6>Tel :</h6>
+                    <p>+1 212-695-1962</p>
+                  </div>
+                  <div class="item">
+                    <h6>Address :</h6>
+                    <p> 962 Fifth Avenue, New York</p>
+                  </div>
+                  <div class="item">
+                    <h6>Email :</h6>
+                    <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6d030c190c01140a04010108032d0a000c0401430e0200">[email&#160;protected]</a></p>
+                    <ul class="list-inline socails mt-4">
+                      <li class="list-inline-item"><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                      <li class="list-inline-item"><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                      <li class="list-inline-item"><a href="#"><i class="lni-github-original"></i></a></li>
+                      <li class="list-inline-item"><a href="#"><i class="lni-linkedin-original"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- ==================== End Navgition ==================== -->
+
     <div id="app"></div>
     <!-- built files will be auto injected -->
   </body>
