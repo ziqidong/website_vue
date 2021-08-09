@@ -3,6 +3,7 @@
     <div style="width: 400px; margin: 100px auto">
       <div style="font-size: 30px; text-align: center; padding: 30px 0">欢迎登录</div>
           <button style="width: 100%" @click="login">登 录</button>
+      <a href="/"><span id="sp">自动点击</span></a>
     </div>
   </div>
 </template>
@@ -38,6 +39,9 @@ export default {
   },
   methods: {
     login() {
+      $(function(){ //跳转到主页，该方法能避免主页组件失效
+        $("#sp").trigger("click");
+      });
           request.post("/user/login", this.form).then(res => {
             if (res.code === '0') {
               sessionStorage.setItem("user", JSON.stringify(res.data))  // 缓存用户信息
