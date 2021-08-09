@@ -40,13 +40,13 @@ export default {
   },
   methods: {
     login() {
-      $(function(){ //跳转到主页，该方法能避免主页组件失效
-        $("#sp").trigger("click");
-      });
           request.post("/user/login", this.form).then(res => {
             if (res.code === '0') {
               sessionStorage.setItem("user", JSON.stringify(res.data))  // 缓存用户信息
-              this.$router.push("/")  //登录成功之后进行页面的跳转，跳转到主页
+              // this.$router.push("/")  //登录成功之后进行页面的跳转，跳转到主页
+              $(function(){ //跳转到主页，该方法能避免主页组件失效
+                $("#sp").trigger("click");
+              });
               console.log('success')
             } else {
               console.log('error')
