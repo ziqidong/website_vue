@@ -60,7 +60,7 @@
                   </div>
                   <div class="col-lg-4 wow fadeInRight">
                       <div class="mt-3 about-img">
-                          <img src="img/about-01.jpg" alt="" class="img-fluid rounded">
+                          <img src="about-01.jpg" alt="" class="img-fluid rounded">
                       </div>
                   </div>
               </div>
@@ -181,7 +181,7 @@
                           <!-- Item 01 -->
                           <div class="portfolio-item">
                               <div class="portfolio-item-content box">
-                                  <img src="img/portfolio/portfolio-01.jpg" alt="/">
+                                  <img src="portfolio/portfolio-01.jpg" alt="/">
                                   <div class="box-content">
                                       <h6><a href="portfolio-light.html">art & illustration</a></h6>
                                       <h4><a href="portfolio-light.html">Inspiring new space.</a></h4>
@@ -191,7 +191,7 @@
                           <!-- Item 02 -->
                           <div class="portfolio-item">
                               <div class="portfolio-item-content box">
-                                  <img src="img/portfolio/portfolio-02.jpg" alt="/">
+                                  <img src="portfolio/portfolio-02.jpg" alt="/">
                                   <div class="box-content">
                                       <h6><a href="portfolio-light.html">art & illustration</a></h6>
                                       <h4><a href="portfolio-light.html">Inspiring new space.</a></h4>
@@ -201,7 +201,7 @@
                           <!-- Item 03 -->
                           <div class="portfolio-item">
                               <div class="portfolio-item-content box">
-                                  <img src="img/portfolio/portfolio-03.jpg" alt="/">
+                                  <img src="portfolio/portfolio-03.jpg" alt="/">
                                   <div class="box-content">
                                       <h6><a href="portfolio-light.html">art & illustration</a></h6>
                                       <h4><a href="portfolio-light.html">Inspiring new space.</a></h4>
@@ -211,7 +211,7 @@
                           <!-- Item 04 -->
                           <div class="portfolio-item">
                               <div class="portfolio-item-content box">
-                                  <img src="img/portfolio/portfolio-04.jpg" alt="/">
+                                  <img src="portfolio/portfolio-04.jpg" alt="/">
                                   <div class="box-content">
                                       <h6><a href="portfolio-light.html">art & illustration</a></h6>
                                       <h4><a href="portfolio-light.html">Inspiring new space.</a></h4>
@@ -221,7 +221,7 @@
                           <!-- Item 05 -->
                           <div class="portfolio-item">
                               <div class="portfolio-item-content box">
-                                  <img src="img/portfolio/portfolio-05.jpg" alt="/">
+                                  <img src="portfolio/portfolio-05.jpg" alt="/">
                                   <div class="box-content">
                                       <h6><a href="portfolio-light.html">art & illustration</a></h6>
                                       <h4><a href="portfolio-light.html">Inspiring new space.</a></h4>
@@ -231,7 +231,7 @@
                           <!-- Item 06 -->
                           <div class="portfolio-item">
                               <div class="portfolio-item-content box">
-                                  <img src="img/portfolio/portfolio-06.jpg" alt="/">
+                                  <img src="portfolio/portfolio-06.jpg" alt="/">
                                   <div class="box-content">
                                       <h6><a href="portfolio-light.html">art & illustration</a></h6>
                                       <h4><a href="portfolio-light.html">Inspiring new space.</a></h4>
@@ -241,7 +241,7 @@
                           <!-- Item 07 -->
                           <div class="portfolio-item">
                               <div class="portfolio-item-content box">
-                                  <img src="img/portfolio/portfolio-07.jpg" alt="/">
+                                  <img src="portfolio/portfolio-07.jpg" alt="/">
                                   <div class="box-content">
                                       <h6><a href="portfolio-light.html">art & illustration</a></h6>
                                       <h4><a href="portfolio-light.html">Inspiring new space.</a></h4>
@@ -251,7 +251,7 @@
                           <!-- Item 08 -->
                           <div class="portfolio-item">
                               <div class="portfolio-item-content box">
-                                  <img src="img/portfolio/portfolio-08.jpg" alt="/">
+                                  <img src="portfolio/portfolio-08.jpg" alt="/">
                                   <div class="box-content">
                                       <h6><a href="portfolio-light.html">art & illustration</a></h6>
                                       <h4><a href="portfolio-light.html">Inspiring new space.</a></h4>
@@ -261,7 +261,7 @@
                           <!-- Item 09 -->
                           <div class="portfolio-item">
                               <div class="portfolio-item-content box">
-                                  <img src="img/portfolio/portfolio-09.jpg" alt="/">
+                                  <img src="portfolio/portfolio-09.jpg" alt="/">
                                   <div class="box-content">
                                       <h6><a href="portfolio-light.html">art & illustration</a></h6>
                                       <h4><a href="portfolio-light.html">Inspiring new space.</a></h4>
@@ -271,7 +271,7 @@
                           <!-- Item 10 -->
                           <div class="portfolio-item">
                               <div class="portfolio-item-content box">
-                                  <img src="img/portfolio/portfolio-10.jpg" alt="/">
+                                  <img src="portfolio/portfolio-10.jpg" alt="/">
                                   <div class="box-content">
                                       <h6><a href="portfolio-light.html">art & illustration</a></h6>
                                       <h4><a href="portfolio-light.html">Inspiring new space.</a></h4>
@@ -295,7 +295,7 @@
                           <div class="testimonial-item">
                               <p>"This has been one of the best Customer Support experiences I have ever had. The design of the theme also, AMAZING! Thank you so much for all your help DynamicLayers!"</p>
                               <div class="mt-5">
-                                  <img src="img/client-01.png" alt="/" class="mx-auto rounded-circle">
+                                  <img src="client-01.png" alt="/" class="mx-auto rounded-circle">
                               </div>
                               <h4 class="mt-3">-Jone Doe, <span class="font-weight-bold">Seo Manager</span></h4>
                           </div>
@@ -303,7 +303,7 @@
                           <div class="testimonial-item">
                               <p>"This has been one of the best Customer Support experiences I have ever had. The design of the theme also, AMAZING! Thank you so much for all your help DynamicLayers!"</p>
                               <div class="mt-5">
-                                  <img src="img/client-02.png" alt="/" class="mx-auto rounded-circle">
+                                  <img src="client-02.png" alt="/" class="mx-auto rounded-circle">
                               </div>
                               <h4 class="mt-3">-Jessy Doe, <span class="font-weight-bold">UI Designer</span></h4>
                           </div>
@@ -311,7 +311,7 @@
                           <div class="testimonial-item">
                               <p>"This has been one of the best Customer Support experiences I have ever had. The design of the theme also, AMAZING! Thank you so much for all your help DynamicLayers!"</p>
                               <div class="mt-5">
-                                  <img src="img/client-03.png" alt="/" class="mx-auto rounded-circle">
+                                  <img src="client-03.png" alt="/" class="mx-auto rounded-circle">
                               </div>
                               <h4 class="mt-3">-Jully Doe, <span class="font-weight-bold">UX Designer</span></h4>
                           </div>
@@ -328,7 +328,7 @@
               <div class="row">
                   <div class=" mx-auto">
                       <div class="position-relative video">
-                          <img src="img/video.jpg" alt="/" class="img-fluid rounded">
+                          <img src="video.jpg" alt="/" class="img-fluid rounded">
                           <a href="https://vimeo.com/108018156" class="popup-vimeo video-box-btn my-4 mb-lg-0">
                               <i class="lni-play base-color"></i>
                           </a>
@@ -354,7 +354,7 @@
                   <div class="col-md-6 col-lg-4">
                       <div class="box">
                           <a href="#"></a>
-                          <img src="img/team-02.jpg" class="w-100" alt="">
+                          <img src="team-02.jpg" class="w-100" alt="">
                           <div class="box-content">
                               <h3 class="title">Elina</h3>
                               <ul class="social">
@@ -367,7 +367,7 @@
                   <div class="col-md-6 col-lg-4">
                       <div class="box">
                           <a href="#"></a>
-                          <img src="img/team-01.jpg" class="w-100" alt="">
+                          <img src="team-01.jpg" class="w-100" alt="">
                           <div class="box-content">
                               <h3 class="title">Aras</h3>
                               <ul class="social">
@@ -380,7 +380,7 @@
                   <div class="col-md-6 col-lg-4">
                       <div class="box">
                           <a href="#"></a>
-                          <img src="img/team-04.jpg" class="w-100" alt="">
+                          <img src="team-04.jpg" class="w-100" alt="">
                           <div class="box-content">
                               <h3 class="title">Jhon</h3>
                               <ul class="social">
@@ -464,7 +464,7 @@
                   <div class="col-lg-4 mt-3 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1000ms">
                       <div class="bg-light">
                           <div class="blog-img">
-                              <img src="img/blog-01.jpg" alt="/">
+                              <img src="blog-01.jpg" alt="/">
                           </div>
                           <div class="p-4 blog-content">
                               <div class="info mb-2">
@@ -483,7 +483,7 @@
                   <div class="col-lg-4 mt-3 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1000ms">
                       <div class="bg-light">
                           <div class="blog-img">
-                              <img src="img/blog-02.jpg" alt="/">
+                              <img src="blog-02.jpg" alt="/">
                           </div>
                           <div class="p-4 blog-content">
                               <div class="info mb-2">
@@ -502,7 +502,7 @@
                   <div class="col-lg-4 mt-3 wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1000ms">
                       <div class="bg-light">
                           <div class="blog-img">
-                              <img src="img/blog-03.jpg" alt="/">
+                              <img src="blog-03.jpg" alt="/">
                           </div>
                           <div class="p-4 blog-content">
                               <div class="info mb-2">

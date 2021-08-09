@@ -430,7 +430,7 @@ span, a, a:hover {
 .overlay-menu.show {
   opacity: 1;
   visibility: visible;
-  cursor: url(../img/cursor-white.png), auto;
+  cursor: url(cursor-white.png), auto;
 }
 
 .overlay-menu-toggler {
@@ -484,7 +484,7 @@ span, a, a:hover {
           Hero-01
 -------------------------*/
 .hero-01 {
-  background-image: url(../img/hero-01.jpg);
+  background-image: url(../hero-01.jpg);
   position: relative;
   background-size: cover;
   background-position: center center;
@@ -572,16 +572,16 @@ header{
 }
 
 .hero-02 .hero-item1 {
-  background: url("../img/slider-1.jpg") no-repeat;
+  background: url("../slider-1.jpg") no-repeat;
   background-position: center left;
 }
 
 .hero-02 .hero-item2 {
-  background: url("../img/hero-01.jpg") no-repeat center;
+  background: url("../hero-01.jpg") no-repeat center;
 }
 
 .hero-02 .hero-item3 {
-  background: url("../img/slider-5.jpg") no-repeat center;
+  background: url("../slider-5.jpg") no-repeat center;
 }
 
 .hero-02 .hero-slide {
@@ -959,7 +959,7 @@ header{
   text-transform: uppercase;
 }
 .hero-05 {
-  background-image: url(../img/swiper-02.jpg);
+  background-image: url(../swiper-02.jpg);
   position: relative;
   background-size: cover;
   background-position: center center;

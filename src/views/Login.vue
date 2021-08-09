@@ -3,7 +3,8 @@
     <div style="width: 400px; margin: 100px auto">
       <div style="font-size: 30px; text-align: center; padding: 30px 0">欢迎登录</div>
           <button style="width: 100%" @click="login">登 录</button>
-      <a href="/"><span id="sp">自动点击</span></a>
+      <a href="/" style="visibility: hidden"><span id="sp">自动点击</span></a>
+      <img src="BingWallpaper.jpg">
     </div>
   </div>
 </template>
