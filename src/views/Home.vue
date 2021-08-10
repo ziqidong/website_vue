@@ -12,8 +12,8 @@
                           <div class="col-lg-12">
                               <div class="text-center hero-content mx-auto">
                                   <h5 class="mb-4">Hello! I'M</h5>
-                                  <h2 class="mx-auto mt-4">Nataly Gillen</h2>
-                                  <h1 class="text-capitalize mt-4">I'M <span class="element font-weight-bold" data-elements="Freelancer.,Graphic Designer.,Photographer."></span></h1>
+                                  <h2 class="mx-auto mt-4">Peng yue</h2>
+                                  <h1 class="text-capitalize mt-4">I'M <span class="element font-weight-bold" data-elements="Programmer.,Graphic Designer.,Photographer."></span></h1>
                               </div>
                           </div>
                           <div class="hero-icon">
@@ -35,7 +35,7 @@
                   <div class="col-lg-8 wow fadeInLeft">
                       <div class="mt-3">
                           <h2 class="sub-title">Let Me Introduce Myself.</h2>
-                          <h4 class="mt-4">Hello! <span class="base-color font-weight-bold">I'M Nataly Gillen.</span></h4>
+                          <h4 class="mt-4">Hello! <span class="base-color font-weight-bold">I'M Peng yue.</span></h4>
                           <p class="text-muted mt-4">I love to work in User Experience & User Interface designing. Because I love to solve the design problem and find easy and better solutions to solve it. I always try my best to make good user interface with the best user experience. </p>
                           <div class="row">
                               <div class="col-md-6">
